@@ -1,0 +1,8 @@
+{
+  "name": "taylor-polls",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "Chart.js": "~1.0.2"
+  }
+}
